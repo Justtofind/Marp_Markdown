@@ -19,6 +19,8 @@ footer: nothy
 ```
 * 熟悉marp基本语法
 `---`表示分页
+## Marpit文件夹
+文件夹中有常用marpit语法的使用手册；和一个简单的`.md`模版
 
 ## 感谢
 本仓库内容借鉴`https://github.com/favourhong/Awesome-Marp`的开源仓库，补充介绍了具体的使用方法。
